@@ -9,7 +9,7 @@ Project report can be found [here](./Causal_DT_project_report.pdf).
 
 Contains scripts to reproduce experiments.
 
-![image info](./causalDT.png)
+![image info](figures/causalDT.png)
 
 
 
